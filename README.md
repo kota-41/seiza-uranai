@@ -9,5 +9,7 @@ https://www.asahi.com/uranai/12seiza/
 uranai.pyをいますぐに実行しよう！！
 
 モジュール作ったよ！
+
 ```pip install uranai```
+
 https://github.com/kota-41/uranai/
